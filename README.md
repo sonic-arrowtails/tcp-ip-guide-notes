@@ -1,1 +1,1 @@
-# tcp-ip-guide-notes
+summarised notes from Kozierok's TCP/IP guide
